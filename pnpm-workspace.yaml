@@ -1,0 +1,12 @@
+packages:
+  - "apps/*"
+  - "bundler/*"
+  - "bundler"
+  - "configs/*"
+  - "examples/*"
+  - "experimental/*"
+  - "extensions/*"
+  - "lsp/*"
+  - "packages/*"
+  - "vm/*"
+  - 'tevm'
